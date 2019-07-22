@@ -30,6 +30,8 @@ public class Helloooo {
 			System.out.println("tenta outra vez......");
 		}
 		while (idade < 100 || idade > 0);
+		System.out.println("ok bye bye!");
+		
 	}
 
 }
