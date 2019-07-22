@@ -12,7 +12,6 @@ public class Helloooo {
 		
 		do {
 		
-		
 		Scanner s1 = new Scanner(System.in);
 		idade = s1.nextInt();
 		
